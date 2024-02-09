@@ -2,7 +2,7 @@
 
 > By Maximilian Schwarzmuller from PACKT, Academind
 
-## React Redux app
+## React Redux async example
 
 Using Redux with React.
 
@@ -10,11 +10,11 @@ Using Redux with React.
 
 ### Clone the repository
 
-`git clone (https://github.com/Hombre2014/react-complete-guide-react-redux.git)`
+`git clone (https://github.com/Hombre2014/react-complete-guide-redux-async.git)`
 
 ### Change the directory
 
-`cd react-complete-guide-react-redux`
+`cd react-complete-guide-redux-async`
 
 ### Install dependencies
 
@@ -39,7 +39,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Hombre/react-complete-guide-react-redux/issues).
+Feel free to check the [issues page](https://github.com/Hombre/react-complete-guide-redux-async/issues).
 
 ## Show your support
 
